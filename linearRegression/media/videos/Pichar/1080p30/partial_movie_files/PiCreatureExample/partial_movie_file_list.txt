@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/whoami/MANIM/linearRegression/media/videos/Pichar/1080p30/partial_movie_files/PiCreatureExample/3445125925_509924550_223132457.mp4'
+file 'file:/home/whoami/MANIM/linearRegression/media/videos/Pichar/1080p30/partial_movie_files/PiCreatureExample/1025971384_1591472157_1655468757.mp4'
+file 'file:/home/whoami/MANIM/linearRegression/media/videos/Pichar/1080p30/partial_movie_files/PiCreatureExample/1025971384_4247107814_3706082972.mp4'
