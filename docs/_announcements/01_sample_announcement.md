@@ -1,4 +1,4 @@
 ---
 date: 2018-10-03T10:00:00+3:30
 ---
-Coursework starting soon, Please check out [here](/).
+Coursework starting soon...

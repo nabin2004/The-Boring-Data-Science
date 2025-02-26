@@ -1,6 +1,6 @@
 ---
 layout: lectures
-title: Lectures
+title: Course Lectures
 permalink: /lectures/
 ---
-You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+Welcome to the lecture section. Here you'll find all course materials including content, presentation slides, and source code.

@@ -1,6 +1,6 @@
 # Site settings
 course_name: The Boring Data Science
-course_description: "Coruse Site for The Boring Data Science"
+course_description: "This initiative aims to provide high-quality Machine Learning content to make advanced AI and Data Science education accessible to everyone, regardless of background or expertise level."
 course_semester: "2025"
 
 baseurl: "/The-Boring-Data-Science" # the subpath of your site, e.g. /blog/
